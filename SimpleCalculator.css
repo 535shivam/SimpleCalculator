@@ -1,0 +1,31 @@
+#display{
+    background-color: whitesmoke;
+    width: 260px;
+    height: 45px;
+    margin-top: 10px;
+    border-radius: 15px;
+    font-size: 35px;
+}
+
+.main {
+    width: 290px;
+    height: 465px;
+    margin: 0 auto; 
+    border: 5px solid black;
+    text-align: center; 
+    margin-top: 60px;
+    background-color: antiquewhite;
+    border-radius: 30px;
+  }
+
+  .buttonClass{
+    font-size: 35px;
+    width: 65px;
+    height: 65px;
+    margin-top: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    color: black;
+    background: aquamarine;
+  }
+  
